@@ -1,5 +1,5 @@
 [
-  { "name": "chocolate", "isSoldOut": true, "scoopsSelected": 5 },
+  { "name": "chocolate", "isSoldOut": false, "scoopsSelected": 0 },
   { "name": "vanilla", "isSoldOut": false, "scoopsSelected": 0 },
   { "name": "Pistachio", "isSoldOut": false, "scoopsSelected": 0 },
   { "name": "Vanilla cookies", "isSoldOut": false, "scoopsSelected": 0 },

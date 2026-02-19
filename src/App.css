@@ -1,7 +1,11 @@
 body {
   background: url('https://www.foodandwine.com/thmb/QnTrAIt3aY1g4ToQEk-jULmKMsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vanilla-ice-cream-FT-RECIPE0324-cebca493f53c4431a0049ea65bfb4796.jpg');
   background-size: cover;
-  display: flex;
+}
+.main {
+  width: 100%;
   flex-direction: column;
   align-items: center;
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
 }
