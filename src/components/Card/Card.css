@@ -1,0 +1,16 @@
+.card {
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  height: 20%;
+}
+.card-buttons {
+  border: 1px solid white;
+  border-radius: 50px;
+  background-color: black;
+}
+.card-buttons:hover {
+  background-color: rgb(37, 36, 36);
+}
